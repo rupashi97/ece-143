@@ -1,9 +1,0 @@
-pandas
-numpy
-gensim
-nltk
-matplotlib
-spacy
-seaborn
-bokeh
-plotly
